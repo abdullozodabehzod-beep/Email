@@ -1,0 +1,102 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    box-sizing: border-box;
+    background: linear-gradient(45deg, rgb(0, 43, 236), rgb(140, 0, 255), rgb(3, 214, 252));
+}
+
+
+
+
+/* Войти */
+.go-in{
+    margin-left: 50px;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 140, 0);
+     
+}
+
+/* block */
+.block{
+   display: flex;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+/*login */
+.login{
+    margin-top: 50px;
+    padding: 5px;
+    width: 800px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(49, 48, 48);
+    color: aliceblue;
+}
+
+
+/*email */
+.email{
+    margin-top: -50px;
+    padding: 5px;
+    width: 800px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(49, 48, 48);
+    color: aliceblue;
+   
+}
+
+/*return */
+
+.login-return{
+    margin-top: 60px;
+    padding: 5px;
+    width: 800px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(49, 48, 48);
+    color: aliceblue;
+}
+
+
+#login-return-id{
+    margin-left: -200px ;
+
+}
+
+/*login */
+
+
+
+#login-id{
+    margin-top: 10px;
+
+}
+
+/*email */
+
+#email-id{
+    margin-top: -100px;
+}
+
+/*control */
+
+.control{
+    margin-left: 800px;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: rgb(112, 112, 112);
+    color: aliceblue;
+    cursor: pointer;
+}
+
+
+
